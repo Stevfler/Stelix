@@ -1,4 +1,4 @@
-<div align="center"> <img src="logo.png" alt="Stelix" width="128"/> <h1>Stelix</h1> <p><b>Всё для стрима — в одном приложении</b></p> <p> <a href="https://stelix.stream/">Сайт</a> · <a href="../../releases/latest">Скачать</a> </p> </div>
+<div align="center"> <img src="logo.png" alt="Stelix" width="128"/> <h1>Stelix</h1> <p><b>Всё для стрима — в одном приложении</b></p> <p> <a href="https://stelix.stream/">Сайт</a> · <a href="https://t.me/stelix_app">Telegram</a> · <a href="../../releases/latest">Скачать</a> </p> </div>
 Stelix — десктопное приложение для стримеров под Windows. Оно собирает чат, события, музыку, таймеры и субтитры в одном окне и выводит всё это в OBS готовыми виджетами. Ничего не нужно настраивать через сторонние сервисы: виджеты раздаются локально и обновляются мгновенно.
 
 Возможности
